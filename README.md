@@ -2,4 +2,4 @@
 #Made by: PluT00
 
 Actions: +, -, *, /
-Brackets supported
+  Brackets supported
