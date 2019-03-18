@@ -6,6 +6,7 @@ def validator(line):
     validation_pattern = r'''
                         ^
                         (
+                        (\(*)
                         (\-?)
                         (\(*)
                         (\-?)
